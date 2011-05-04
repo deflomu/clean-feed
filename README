@@ -1,0 +1,3 @@
+Wordpress clean-feed plugin
+
+This plugin removes certain tags from the content in the feeds. Currently removed are <div>.
